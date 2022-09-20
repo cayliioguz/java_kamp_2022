@@ -1,0 +1,16 @@
+package intro;
+
+public class halo {
+
+	public static void main(String[] args) {
+		
+		String dodo = new String ("naber dodo");
+		
+		System.out.println(dodo);
+		System.out.println(dodo);
+		System.out.println(dodo);
+		System.out.println(dodo);
+		System.out.println(dodo);
+		
+}
+	}
